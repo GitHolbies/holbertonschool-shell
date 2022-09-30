@@ -1,5 +1,7 @@
 #!/bin/bash
-mv betty /root /tmp/my_first_directory
+mv betty /tmp/my_first_directory
+
+
 
 
 
